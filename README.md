@@ -58,4 +58,23 @@ header ukuran 6 untuk ukuran teks yang paling kecil.
  ```      
 
  ![Gambar 7](Screenshoots/Capture7.PNG)             
- 
+
+ Hasilnya akan seperti ini :              
+
+ ![Gambar 8](Screenshoots/Capture8.PNG)             
+
+ ## Memformat Teks
+
+ Mengubah format pada teks disuatu paragraf menjadi italic, bold, underline, dan sebagainya bisa              
+ dilakukan pada HTML.       
+ Tag `<i>` digunakan untuk mengubah format teks menjadi miring.              
+ Tag `<b>` digunakan untuk mengubah format teks menjadi tebal.          
+ Tag `<u>` digunakan untuk mengubah format teks menjadi garis bawah.            
+ Tag `<mark>` digunakan untuk mengubah format teks menjadi highlight/marking.        
+ Tag `<sup>` digunakan untuk mengubah format teks menjadi superscript.         
+ Tag `<sub>` digunakan untuk mengubah format teks menjadi subscript.              
+ Tag `<del>` digunakan untuk mengubah format teks menjadi garis tengah.        
+
+ Tag-tag tersebut bisa langsung disisipkan kedalam paragraf. Contohnya ini :        
+
+ ![Gambar 9](Screenshoots/Capture9.PNG)             
