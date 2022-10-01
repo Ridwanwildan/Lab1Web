@@ -103,3 +103,12 @@ header ukuran 6 untuk ukuran teks yang paling kecil.
 
  Atribut `title` yang ada didalam tag `<img>` fungsinya adalah memberikan judul pada gambar tersebut.       
 
+ ## Menambahkan Hyperlink
+
+ Hyperlink atau link navigasi bisa ditambahkan kedalam HTML dengan cara menggunakan tag `<a>` dan         
+ ditambah dengan atribut `href`. Sama seperti menambahkan gambar, hyperlink bisa diambil dari          
+ file internal dan bisa juga dari link external. Seperti ini :          
+
+![Gambar 14](Screenshoots/Capture14.PNG)             
+
+![Gambar 15](Screenshoots/Capture15.PNG)             
