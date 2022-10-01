@@ -55,7 +55,7 @@ header ukuran 6 untuk ukuran teks yang paling kecil.
 <h4>header teks ukuran 4</h4>
 <h5>header teks ukuran 5</h5>
 <h6>header teks ukuran 6</h6>
- ```      
+```      
 
  ![Gambar 7](Screenshoots/Capture7.PNG)             
 
@@ -78,3 +78,28 @@ header ukuran 6 untuk ukuran teks yang paling kecil.
  Tag-tag tersebut bisa langsung disisipkan kedalam paragraf. Contohnya ini :        
 
  ![Gambar 9](Screenshoots/Capture9.PNG)             
+
+ ![Gambar 10](Screenshoots/Capture10.PNG)             
+ 
+ ## Menyisipkan Gambar
+
+ Untuk menyisipkan gambar kedalam website, caranya adalah menggunakan tag `<img>`. Gambar yang             
+ akan disisipkan kedalam website bisa disimpan di penyimpanan internal dan bisa juga diambil dari            
+ web lain tanpa harus menyimpannya terlebih dahulu. Seperti ini :           
+
+ ![Gambar 11](Screenshoots/Capture11.PNG)             
+
+ ![Gambar 12](Screenshoots/Capture12.PNG)             
+
+ Sedangkan cara untuk menyisipkan gambar dari web lain atau external link seperti ini :         
+
+ ![Gambar 13](Screenshoots/Capture13.PNG)             
+
+ Gambar yang muncul di website adalah ukuran gambar yang asli dan tidak ada perubahan.         
+ Untuk mengatur ukuran gambar bisa tambahkan atribut `width` untuk mengatur lebar gambar            
+ dan `height` untuk mengatur tinggi gambar. Sisipkan atribut `width` dan `height` pada tag `<img>`.           
+ Sedangkan untuk gambar yang ukuran antara lebar dan tingginya ingin disamakan, maka          
+ cukup gunakan atribut `width` saja.          
+
+ Atribut `title` yang ada didalam tag `<img>` fungsinya adalah memberikan judul pada gambar tersebut.       
+
