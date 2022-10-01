@@ -37,7 +37,13 @@ Caranya adalah dengan menambahkan atribut pada tag paragrafnya. Seperti ini :
 
 ![Gambar 5](Screenshoots/Capture5.PNG)             
 
+Value pada atribut `align` juga bisa diubah menjadi `justify`, `right`, dan lainnya.         
 Jangan lupa refresh untuk melihat hasilnya di web browser.          
 
 ![Gambar 6](Screenshoots/Capture6.PNG)             
 
+## Menambahkan Judul
+
+Menambahkan judul atau biasa disebut header teks bisa dilakukan dengan menambahkan tag `h` pada html.          
+Ukuran header teks pada HTML bisa disesuaikan, ada header dengan ukuran 1 yang paling besar dan         
+header ukuran 6 untuk ukuran teks yang paling kecil.           
