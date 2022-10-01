@@ -5,7 +5,14 @@
 * Kelas         : TI.21.B.1
 * Mata Kuliah   : Pemrograman Web
 
-Dalam latihan menggunakan tag HTML ini, saya menggunakan [Google Chrome](https://www.google.com/intl/id_id/chrome/) sebagai teks editornya.  
+Dalam latihan menggunakan tag HTML ini, saya menggunakan [Google Chrome](https://www.google.com/intl/id_id/chrome/) sebagai web browser dan [visual studio code](https://code.visualstudio.com/) sebagai teks editornya.       
+
+* [Tag Dasar](https://github.com/Ridwanwildan/Lab1Web#tag-dasar)         
+* [Membuat Paragraf](https://github.com/Ridwanwildan/Lab1Web#membuat-paragraf)         
+* [Menambahkan Judul](https://github.com/Ridwanwildan/Lab1Web#menambahkan-judul)                        
+* [Memformat Teks](https://github.com/Ridwanwildan/Lab1Web#memformat-teks)                  
+* [Menyisipkan Gambar](https://github.com/Ridwanwildan/Lab1Web#menyisipkan-gambar)                  
+* [Menambahkan Hyperlink](https://github.com/Ridwanwildan/Lab1Web#menambahkan-hyperlink)                  
 
 ## Tag Dasar
 
