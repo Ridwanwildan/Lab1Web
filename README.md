@@ -7,6 +7,7 @@
 
 Dalam latihan menggunakan tag HTML ini, saya menggunakan [Google Chrome](https://www.google.com/intl/id_id/chrome/) sebagai web browser dan [visual studio code](https://code.visualstudio.com/) sebagai teks editornya.       
 
+Daftar isi :          
 * [Tag Dasar](https://github.com/Ridwanwildan/Lab1Web#tag-dasar)         
 * [Membuat Paragraf](https://github.com/Ridwanwildan/Lab1Web#membuat-paragraf)         
 * [Menambahkan Judul](https://github.com/Ridwanwildan/Lab1Web#menambahkan-judul)                        
@@ -48,6 +49,16 @@ Value pada atribut `align` juga bisa diubah menjadi `justify`, `right`, dan lain
 Jangan lupa refresh untuk melihat hasilnya di web browser.          
 
 ![Gambar 6](Screenshoots/Capture6.PNG)             
+
+Selain itu, paragraf juga bisa ditambahkan beberapa tag pendukung lainnya seperti         
+tag `<hr/>` digunakan untuk menambahkan garis horizontal sebelum atau sesudah paragraf.       
+tag `<br/>` digunakan untuk memisah paragraf ke baris berikutnya (ke baris bawah).       
+tag `<pre>` digunakan untuk membuat spasi panjang pada paragraf.        
+
+Seperti ini :           
+
+![Gambar 16](Screenshoots/Capture16.PNG)             
+![Gambar 17](Screenshoots/Capture17.PNG)             
 
 ## Menambahkan Judul
 
